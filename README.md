@@ -7,7 +7,7 @@
 ### 🛡️ Sobre mí
 - 🎓 **Carrera:** Ingeniería de Ciberseguridad en la **UPC** (Universidad Peruana de Ciencias Aplicadas).
 - 💻 **Enfoque actual:** Desarrollo de sistemas estructurados, optimización de algoritmos y lógica de programas.
-- 🤝 **Trabajo en Equipo & Control de Versiones:** Experiencia coordinando código colaborativo en tiempo real mediante **VS Code (Live Share)**, gestionando el historial de commits, flujo de trabajo con **Git** y co-autoría en **GitHub**.
+- 🤝 **Trabajo en Equipo & Control de Versiones:** Experiencia coordinando código colaborativo en tiempo real mediante **VS Code (Live Share)**, gestionando el historial de commits, flujo de trabajo con **Git** y **GitHub**.
 - 🎯 **Intereses:** Ciberseguridad, seguridad de la información y analítica de datos.
 
 ---
